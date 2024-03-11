@@ -1,10 +1,21 @@
 최태영 | TaeYoung Choe
 ====================
-I'm Interesting about solving Social Problem by programming
-Also Finance, creating a company
+full stack developer
+- Experience about developing App
+- Experience about developing DOS_Game by C++
+-------------------------------
+Interest
+--------
+- Solving social problem by programming  
+- Finance  
+- creating a comapny
 * * *
-BOJ
----
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cty010321)](https://solved.ac/cty010321)
+
+Stats
+-----
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CTae0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
