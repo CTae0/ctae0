@@ -8,7 +8,7 @@ Interest
 --------
 - Solving social problem by programming  
 - Finance  
-- creating a comapny
+- Creating a comapny
 * * *
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cty010321)](https://solved.ac/cty010321)
 
