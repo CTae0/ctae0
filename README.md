@@ -1,4 +1,11 @@
-### Hi there 👋
+최태영 | TaeYoung Choe
+====================
+I'm Interesting about solving Social Problem by programming
+Also Finance, creating a company
+* * *
+BOJ
+---
+
 
 <!--
 **CTae0/ctae0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
