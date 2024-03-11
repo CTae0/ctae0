@@ -1,6 +1,6 @@
 최태영 | TaeYoung Choe
 ====================
-full stack developer
+Full stack developer
 - Experience about developing App
 - Experience about developing DOS_Game by C++
 -------------------------------
